@@ -13,6 +13,6 @@ public class Main {
         }
 
         // Добавлена строка для теста пуша
-        System.out.println("Проверка пуша в обе ветки 3");
+        System.out.println("Проверка пуша в обе ветки 4");
     }
 }
