@@ -1,0 +1,5 @@
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     1767    1450    1767      16816  pty0      197609 04:56:49 /usr/bin/PS
+     1449       1    1449       6560  ?         197609 04:09:42 /usr/bin/mintty
+     1396       1    1396      19036  ?         197609 01:44:51 /usr/lib/gnupg/keyboxd
+     1450    1449    1450       8152  pty0      197609 04:09:43 /usr/bin/bash
